@@ -11,4 +11,4 @@
 - [Сотрудничество](CONTRIBUTING.md)
 - [Список изменений](CHANGELOG.md)
 - [Документация XenForo на CYBERSPACE.Wiki](//opencart.cyberspace.wiki/)
-- [ocStore](//github.com/myopencart/ocStore)
+- [Репозиторий ocStore](//github.com/myopencart/ocStore)
