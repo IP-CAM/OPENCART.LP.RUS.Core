@@ -1,14 +1,13 @@
-# (OPENCART/LP/RUS) Core
+Language pack for OpenCart based on [ocStore] (// github.com/myopencart/ocStore).
 
-Языковой пакет для OpenCart, основанный на [ocStore](//github.com/myopencart/ocStore).
+## Installation
 
-## Установка
+1. Upload folders and files from `resource / upload /` (if available) to the site root, keeping the directory structure.
 
-1. Загрузите папки и файлы из `resource/upload/` (если имеется) в корень сайта, сохраняя структуру директорий.
+## Links
 
-## Ссылки
+- [Cooperation] (CONTRIBUTING.md)
+- [List of changes] (CHANGELOG.md)
+- [XenForo documentation at CYBERSPACE.Wiki] (// opencart.cyberspace.wiki/)
+- [ocStore repository] (// github.com/myopencart/ocStore) 
 
-- [Сотрудничество](CONTRIBUTING.md)
-- [Список изменений](CHANGELOG.md)
-- [Документация XenForo на CYBERSPACE.Wiki](//opencart.cyberspace.wiki/)
-- [Репозиторий ocStore](//github.com/myopencart/ocStore)
